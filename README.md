@@ -1,2 +1,2 @@
 # 30Days-Agentic-AI
-My 30-Day Learning Challenge building Agentic AI projects step-by-step using Python &amp; LangChain.
+🔥 I’m completing a 30-Day Agentic AI Challenge — building 1 agent per day and documenting everything publicly
