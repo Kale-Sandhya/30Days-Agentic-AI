@@ -4,6 +4,4 @@
 | Day | Topic                       | Notes | Code     |
 | --- | --------------------------- | ----- | -------- |
 | 1   | What is Agentic AI          | ✔     | → Folder |
-| 2   | Basic AI Agent (OpenRouter) | ✔     | → Folder |
-| 3   | Memory in Agents            | ✔     | → Folder |
-| 4   | RAG Agent                   | ✔     | → Folder |
+
