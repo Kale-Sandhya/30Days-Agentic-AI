@@ -16,4 +16,5 @@
 | 7   | Tools                       | ✔     | → Folder |
 | --- | --------------------------- | ----- | -------- |
 | 8   | Planning of Agents          | ✔     | → Folder |
-
+| --- | --------------------------- | ----- | -------- |
+| 9   |  Observability of Agents    | ✔     | → Folder |
